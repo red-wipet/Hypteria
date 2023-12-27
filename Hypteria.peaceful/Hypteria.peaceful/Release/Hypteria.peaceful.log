@@ -1,0 +1,30 @@
+﻿  Hypteria.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(253,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(263,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(268,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(350,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(369,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(388,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(415,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(477,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(478,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(479,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(480,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(507,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(508,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(509,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(510,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(538,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(539,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(540,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(541,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(591,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(592,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(716,24): warning C4129: R: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Hypteria.peaceful\Hypteria.peaceful.cpp(722,25): warning C4129: N: неизвестная escape-последовательность
+  Создание кода
+  1 of 28 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Hypteria.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Release\Hypteria.peaceful.exe

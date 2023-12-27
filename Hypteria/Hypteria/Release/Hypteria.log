@@ -1,0 +1,35 @@
+﻿  Hypteria.cpp
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(253,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(263,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(268,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(398,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(417,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(436,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(463,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(525,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(526,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(527,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(528,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(555,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(556,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(557,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(558,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(586,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(587,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(588,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(589,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(639,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(640,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(764,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(764,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(764,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(764,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(770,25): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(770,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Hypteria\Hypteria\Hypteria.cpp(770,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  1 of 30 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Hypteria.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Hypteria\Release\Hypteria.exe

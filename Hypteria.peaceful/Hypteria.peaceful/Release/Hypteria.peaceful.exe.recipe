@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\mrsuperbuddy\source\repos\Hypteria.peaceful\Release\Hypteria.peaceful.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\mrsuperbuddy\Desktop\Resource.rc</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\mrsuperbuddy\Desktop\styx.ico</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
